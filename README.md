@@ -5,7 +5,7 @@ This go code lets u too clone ur repository under any of ur organisations that y
 ## Prerequisites
 
 - You need to create your github personal access token under the settings, full details [here](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
-- Once done paste have it under an env variable called GH_TOKEN.
+- Once done have it under an env variable called GH_TOKEN.
 - Also mention ur directory path on where u have to clone CLONE_DIR, if not provided the default path would be `user_home/Documents`
 
 ## Run the app
