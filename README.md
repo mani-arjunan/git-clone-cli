@@ -17,7 +17,8 @@ This go code lets u too clone ur repository under any of ur organisations that y
 I have created this script to not forget my golang knowledge,
 coz it's been very very long time on working golang professionally, am stuck with this mf js rn.
 
-> **_NOTE:_**  Created fully by mani! not by any gpt, claude or grok dumbass's, with this in mind code may have O(n^2) of bugs
+> **_NOTE:_**  Created fully by mani! not by any gpt, claude or grok dumbass's, with this in mind code may have O(n^2) of bugs, 
+> Feel free to roast it, review it, find bugs etccc
 
 
 
