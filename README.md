@@ -14,8 +14,10 @@ This go code lets u too clone ur repository under any of ur organisations that y
 - you can also run it with docker run -e HOME=$HOME -e GH_TOKEN="VALUE" -e CLONE_DIR="VALUE" mani210305/git-clone-cli.
 (-it is required, since the application get lot of inputs from stdin)
 
-I have created this script to not forget my golang knowledge,
-coz it's been very very long time on working golang professionally, am stuck with this mf js rn.
+I have created this script to not forget my golang knowledge, 
+coz it's been very very long time on working golang professionally, am stuck with this mf js rn,
+nthg special engineering or any blazingly fast algorithms are used, just a plain 
+api call wrapper to the stdout.
 
 > **_NOTE:_**  Created fully by mani! not by any gpt, claude or grok dumbass's, with this in mind code may have O(n^2) of bugs, <br/>
 > Feel free to roast it, review it, find bugs etccc
