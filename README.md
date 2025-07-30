@@ -11,8 +11,8 @@ This go code lets u too clone ur repository under any of ur organisations that y
 ## Run the app
 
 - Once all the above prerequisites are done you are good to go, now run `go run main.go`.
-- you can also run it with docker run -e HOME=$HOME -e GH_TOKEN="VALUE" -e CLONE_DIR="VALUE" mani210305/git-clone-cli.
-(-it is required, since the application get lot of inputs from stdin)
+- In MAC you can also install with brew `brew tap mani-arjunan/gic && brew install gic`, for any updates do `brew update && brew reinstall gic`.
+- In linux based distros, extract the tar under releases page(use latest).
 
 I have created this script to not forget my golang knowledge, 
 coz it's been very very long time on working golang professionally, am stuck with this mf js rn,
